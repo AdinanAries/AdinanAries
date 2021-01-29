@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Mohammed Adinan. I've been in tech for about 9 years. Started out in 2011 as computer hardware and networking engineer. For three yeas, I was doing stuff like LAN installation and troubleshooting, MS SQL database administration with SQL, and a little bit of Windows Server administration. Now a self made software engineer and architect, I design system software architecture, build systems fullstack-wise with modern frontend tech, and usually a java and/or node.js backend, powered by Microsoft SQL server or MySQL database.
+
+### What I'm currently working on
+
+For the past 3 months, I've been writing code to build an OTA (Online Travel Agency). This product should have features to book flights and hotels, and to rent cars. It features API integration with various GDS's (Global Distribution Systems) and travel products wholesaler in order to get the travel and hospitality products/services data to facilitate the booking workflow (from searching for offers, to getting final prices, to creating customer records, and getting to the final stages (usually Queuing up the customer for ticketing)).  It's a vanilla JS frontend, and a node/express backend, with anticipated use of MySQL database.
+
+### I've also built a booking app
+
+Queue Appointments is an app that lets people find medical and beauty places to book appointments. Its over 100ksloc, built over a period of one and half year. It's codebase is mostly JSP's and servlets (JAVA) and also features MS SQL server database. As far as payment processing, its integrated with stripe payments API. 
+
 <!--
 **AdinanAries/AdinanAries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
