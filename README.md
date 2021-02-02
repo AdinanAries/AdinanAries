@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mohammed Adinan. I've been in tech for about 9 years. Started out in 2011 as computer hardware and networking engineer. For three yeas, I was doing stuff like LAN installation and troubleshooting, MS SQL database administration with SQL, and a little bit of Windows Server administration. Now a self made software engineer and architect, I design system software architecture, build systems fullstack-wise with modern frontend tech, and usually a java and/or node.js backend, powered by Microsoft SQL server or MySQL database.
+I'm Mohammed Adinan. I've been in tech for about 9 years. Started out in 2011 as computer hardware and networking engineer. For three years, I was doing stuff like LAN installation and troubleshooting, MS SQL database administration with SQL, and a little bit of Windows Server administration. Now a self made software engineer and architect, I design system software architecture, build systems fullstack-wise with modern frontend tech, and usually a java and/or node.js backend, powered by Microsoft SQL server or MySQL database.
 
 ### What I'm currently working on
 
